@@ -530,4 +530,4 @@ msgstr ”Gå till inställningar”
 # @ woocommerce-delivery-notes
 #: ../woocommerce-delivery-notes.php:181
 msgid "Settings"
-msgstr ”Inställningar”
+msgstr ”Inställningar"
